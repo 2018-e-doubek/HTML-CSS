@@ -1,0 +1,13 @@
+body {
+  background-image: url("GIF2.gif");
+  font-family: fantasy;
+}
+
+a {
+  color: #FF851B;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0074D9;
+}
